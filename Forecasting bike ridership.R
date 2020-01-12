@@ -1,5 +1,6 @@
-# Forecasting daily bi-cycle ridership in Seattle
-# Data set downloaded from Kaggle
+# Forecasting daily bicycle ridership
+# Data set downloaded from Udemy program
+
 
 # import packages
 library(tidyverse)

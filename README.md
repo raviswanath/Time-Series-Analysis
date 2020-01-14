@@ -9,11 +9,11 @@ Data used uploded inside the data folder.
 
 ### Results 
 <img width="1001" alt="Screen Shot 2020-01-13 at 9 17 46 PM" src="https://user-images.githubusercontent.com/17786269/72316248-65b40d80-364a-11ea-95f7-4875450411bc.png">
-
 #### ARIMA:
 MAPE: 12.07%
 RMSE: 63.02
 
+<img width="866" alt="Screen Shot 2020-01-13 at 8 46 36 PM" src="https://user-images.githubusercontent.com/17786269/72316704-d27bd780-364b-11ea-870b-4477f3f97448.png">
 #### Prophet:
 MAPE: 10.28%
 RMSE: 51.06
